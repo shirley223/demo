@@ -15,7 +15,7 @@ import numpy as np
 import imageio
 
 
-url =" https://www.missevan.com/sound/6149849" #输入单集网页地址
+url =" https://www.missevan.com/sound/9122472" #输入单集网页地址
 request1 = requests.get(url)
 result1 = request1.text
 #print(result1)
